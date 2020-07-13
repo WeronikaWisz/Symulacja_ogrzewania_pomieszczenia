@@ -7,4 +7,4 @@ Plan projektu
 5. Walidacja i weryfikacja modelu. 
 6. Projektowanie i przeprowadzenie układu eksperymentów. 
 7. Analiza wyników.
-
+Projekt współtworzony z https://github.com/enyolka.
